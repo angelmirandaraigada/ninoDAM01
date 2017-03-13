@@ -17,6 +17,7 @@ public class ClaseENDE1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Cambios 1");
+        System.out.println("Cambios 2");
     }
     
 }
